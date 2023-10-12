@@ -1,4 +1,4 @@
-package br.com.marcelino.academia.digital.infra.jackson.ser;
+package br.com.marcelino.academia.digital.infra.ser;
 
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.SerializerProvider;

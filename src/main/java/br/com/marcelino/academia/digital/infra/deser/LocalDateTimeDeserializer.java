@@ -1,4 +1,4 @@
-package br.com.marcelino.academia.digital.infra.jackson.deser;
+package br.com.marcelino.academia.digital.infra.deser;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.DeserializationContext;
